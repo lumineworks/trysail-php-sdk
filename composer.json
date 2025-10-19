@@ -1,5 +1,5 @@
 {
-    "name": "trysail/sdk",
+    "name": "lumineworks/trysail-php-sdk",
     "description": "Official PHP SDK for Trysail WireGuard Control Plane",
     "type": "library",
     "license": "MIT",
