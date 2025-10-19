@@ -13,13 +13,13 @@ PHP SDK for interacting with Trysail License Server and WireGuard Control Plane.
 ### Via Composer
 
 ```bash
-composer require trysail/sdk
+composer require lumineworks/trysail-php-sdk
 ```
 
 ### Manual Installation
 
 ```bash
-git clone https://github.com/trysail/php-sdk.git
+git clone https://github.com/lumineworks/trysail-php-sdk.git
 cd php-sdk
 composer install
 ```
