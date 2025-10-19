@@ -1,0 +1,10 @@
+parameters:
+    level: max
+    paths:
+        - src
+    excludePaths:
+        - src/Laravel/Facades
+    ignoreErrors:
+        - '#Call to an undefined method Illuminate\\Contracts\\Foundation\\Application::#'
+    checkMissingIterableValueType: false
+    checkGenericClassInNonGenericObjectType: false
